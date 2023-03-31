@@ -13,4 +13,4 @@ Easy-to-use CLI Interface: TimeTracker-CLI provides a user-friendly command-line
 </li>
 </ol>
 
-The rest of the code in the script is primarily concerned with user interface (UI) elements, such as getting input from the user, displaying options and choices, and handling the user's selections. The main part of the code, the if __name__ == "__main__": block, initializes the CSV file, and runs a loop to handle user input for starting timers, viewing stats, or exiting the application.
+The rest of the code in the script is primarily concerned with user interface (UI) elements, such as getting input from the user, displaying options and choices, and handling the user's selections. The main part of the code, the <code>if __name__ == "__main__":</code> block, initializes the CSV file, and runs a loop to handle user input for starting timers, viewing stats, or exiting the application.
